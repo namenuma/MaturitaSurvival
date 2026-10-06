@@ -1,0 +1,13 @@
+78098b89c88a74ebe8c20117b8754620
+::res://::1791293778
+::res://assets/::1791232839
+icon.svg::CompressedTexture2D::8176424506291392399::1791232648::1791232839::1::::<><><>0<>0<>2af58061f67a5d034920ddc512648d17<>res://.godot/imported/icon.svg-56083ea2a1f1a4f1e49773bdc6d7826c.ctex::
+::res://scenes/::1791293282
+dialogue_box.tscn::PackedScene::-1::1791232648::0::1::::<><><>0<>0<><>::res://scripts/dialogue_box.gd
+main.tscn::PackedScene::2758279844276988438::1791293282::0::1::::<><><>0<>0<><>::uid://bij6byhoqejdp::::res://scenes/player.tscn<>uid://d33d5hanbv70p::::res://scenes/npc.tscn
+npc.tscn::PackedScene::9182588343109641017::1791232838::0::1::::<><><>0<>0<><>::uid://diqb6qbtn8x6n::::res://scripts/npc.gd<>uid://doqyrtxjguuvv::::res://assets/icon.svg
+player.tscn::PackedScene::2968396117185242809::1791232838::0::1::::<><><>0<>0<><>::uid://tg00idx4oa7::::res://scripts/player.gd<>uid://doqyrtxjguuvv::::res://assets/icon.svg
+::res://scripts/::1791232838
+dialogue_box.gd::GDScript::333616763374834796::1791232838::0::1::::<>CanvasLayer<><>0<>0<><>::
+npc.gd::GDScript::7753919763652713727::1791232838::0::1::::<>StaticBody2D<><>0<>0<><>::
+player.gd::GDScript::39633449741743888::1791232838::0::1::::<>CharacterBody2D<><>0<>0<><>::
