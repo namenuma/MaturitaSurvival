@@ -17,7 +17,7 @@ position = Vector2(484, 86)
 lines = Array[String](["Ahoj, jsem 3. NPC!", "Mam hodne textu", "Opravdu!"])
 
 [node name="Player" parent="." unique_id=617009748 instance=ExtResource("1")]
-position = Vector2(134, 257)
+position = Vector2(136, 240)
 
 [node name="Camera2D" type="Camera2D" parent="Player" unique_id=1092834594]
 zoom = Vector2(0.5, 0.5)
