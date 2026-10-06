@@ -17,7 +17,7 @@ func _physics_process(_delta: float) -> void:
 	velocity = direction * speed
 	move_and_slide()
 	update_animation(direction)
-
+#AI assisted:
 func update_animation(direction: Vector2) -> void:
 	if direction != Vector2.ZERO:
 		if abs(direction.x) > abs(direction.y):
@@ -28,3 +28,4 @@ func update_animation(direction: Vector2) -> void:
 	else:
 		anim.stop()
 		anim.frame = 0
+#end of AI assist
