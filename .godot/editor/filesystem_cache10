@@ -1,9 +1,9 @@
 78098b89c88a74ebe8c20117b8754620
 ::res://::1791301698
-::res://assets/::1791301698
+::res://assets/::1791301705
 icon.svg::CompressedTexture2D::8176424506291392399::1791232648::1791232839::1::::<><><>0<>0<>2af58061f67a5d034920ddc512648d17<>res://.godot/imported/icon.svg-56083ea2a1f1a4f1e49773bdc6d7826c.ctex::
 maturant.png::CompressedTexture2D::8653248923287501739::1791300737::1791301705::1::::<><><>0<>0<>7b4564124f571b70ccd2f900e0c9214e<>res://.godot/imported/maturant.png-4962f6cf9415636cdc5f317faf27ddbc.ctex::
-::res://assets/animace/::1791301684
+::res://assets/animace/::1791302854
 pixil-frame-0 (5).png::CompressedTexture2D::7710444960413426945::1791300748::1791301705::1::::<><><>0<>0<>08243f4e89c38123c1ef8b54020d05ab<>res://.godot/imported/pixil-frame-0 (5).png-e7e91ceef43e27c48e879f5136170898.ctex::
 WalkAnimation0.png::CompressedTexture2D::80504878681339358::1791300783::1791301705::1::::<><><>0<>0<>203c748879c03334925dbcb3476a6d15<>res://.godot/imported/WalkAnimation0.png-152b004a61f63d226f83d57205577758.ctex::
 WalkAnimation1.png::CompressedTexture2D::752313498371656355::1791300882::1791301705::1::::<><><>0<>0<>d618f0b26682b2b962cbf66476c9719f<>res://.godot/imported/WalkAnimation1.png-51db2af96c0eb87c3643eb23b986b92d.ctex::
@@ -12,7 +12,7 @@ WalkAnimation4.png::CompressedTexture2D::1576259217940705816::1791300979::179130
 WalkBack0.png::CompressedTexture2D::2877817134248374085::1791301563::1791301705::1::::<><><>0<>0<>06b6d4ca10dc55666c1a21c3f9ca46d3<>res://.godot/imported/WalkBack0.png-c9595250bdbc4794346889425782f54a.ctex::
 WalkBack1.png::CompressedTexture2D::7043847753642561654::1791301640::1791301705::1::::<><><>0<>0<>5c98e3464db14dbb0e59ea729959d42a<>res://.godot/imported/WalkBack1.png-0932dce4728b6dca403fbf0d59e8c762.ctex::
 WalkBack2.png::CompressedTexture2D::3510450305159221178::1791301563::1791301705::1::::<><><>0<>0<>b5a8c81cf41f2df9690591d8962d4072<>res://.godot/imported/WalkBack2.png-7916d6888027098b865deb46f15e26a5.ctex::
-WalkBack3.png::CompressedTexture2D::7368649846859944327::1791301666::1791301705::1::::<><><>0<>0<>6983f502d2232b751cf113b4b7f092f1<>res://.godot/imported/WalkBack3.png-43523ba0ff9cd3dbc19e848d595a1be9.ctex::
+WalkBack3.png::CompressedTexture2D::4097195453237998534::1791302854::1791302862::1::::<><><>0<>0<>2e69ce05865891ac9059b46e47f54a41<>res://.godot/imported/WalkBack3.png-43523ba0ff9cd3dbc19e848d595a1be9.ctex::
 WalkLeft0.png::CompressedTexture2D::4226541167912324985::1791301373::1791301705::1::::<><><>0<>0<>6ae77e330522d06e26bfb376dbd0e59e<>res://.godot/imported/WalkLeft0.png-4299f5b56e43cecfe5ece1c811c048f0.ctex::
 WalkLeft1.png::CompressedTexture2D::5658530518060847782::1791301451::1791301705::1::::<><><>0<>0<>7f6f977f7c135c9549e1c67f3f441d33<>res://.godot/imported/WalkLeft1.png-2646cc9d985fefafac94b0179e5121e2.ctex::
 WalkLeft2.png::CompressedTexture2D::2741582144651852880::1791301373::1791301705::1::::<><><>0<>0<>d4f0d08437128b90cb3595258e94792a<>res://.godot/imported/WalkLeft2.png-f083ea690a468c81d7acb9ac9e28e393.ctex::
@@ -21,12 +21,12 @@ WalkRight0.png::CompressedTexture2D::825867770434984350::1791301068::1791301705:
 WalkRight1.png::CompressedTexture2D::6343316329856192145::1791301173::1791301705::1::::<><><>0<>0<>131a08bd4421824975c000227851e9a3<>res://.godot/imported/WalkRight1.png-dcbf2b0d46853ec555c23003b6959193.ctex::
 WalkRight2.png::CompressedTexture2D::7836113328211684848::1791301068::1791301705::1::::<><><>0<>0<>eefc1ddef9c77ad68d63d6598a2d2fde<>res://.godot/imported/WalkRight2.png-bb75e5ccaf0b56a2564141520533df1d.ctex::
 WalkRight3.png::CompressedTexture2D::3550532795621606371::1791301276::1791301705::1::::<><><>0<>0<>926932bcc839fee8c96127e437b4c7b7<>res://.godot/imported/WalkRight3.png-0c710a1d4db7beeb84e83c9a17da23c7.ctex::
-::res://scenes/::1791293282
+::res://scenes/::1791302708
 dialogue_box.tscn::PackedScene::-1::1791232648::0::1::::<><><>0<>0<><>::res://scripts/dialogue_box.gd
-main.tscn::PackedScene::2758279844276988438::1791293282::0::1::::<><><>0<>0<><>::uid://bij6byhoqejdp::::res://scenes/player.tscn<>uid://d33d5hanbv70p::::res://scenes/npc.tscn
+main.tscn::PackedScene::2758279844276988438::1791302708::0::1::::<><><>0<>0<><>::uid://bij6byhoqejdp::::res://scenes/player.tscn<>uid://d33d5hanbv70p::::res://scenes/npc.tscn
 npc.tscn::PackedScene::9182588343109641017::1791232838::0::1::::<><><>0<>0<><>::uid://diqb6qbtn8x6n::::res://scripts/npc.gd<>uid://doqyrtxjguuvv::::res://assets/icon.svg
-player.tscn::PackedScene::2968396117185242809::1791232838::0::1::::<><><>0<>0<><>::uid://tg00idx4oa7::::res://scripts/player.gd<>uid://doqyrtxjguuvv::::res://assets/icon.svg
-::res://scripts/::1791232838
+player.tscn::PackedScene::2968396117185242809::1791302707::0::1::::<><><>0<>0<><>::uid://tg00idx4oa7::::res://scripts/player.gd<>uid://be85ysx2qrlu::::res://assets/animace/WalkAnimation0.png<>uid://kyoq1m0jarbn::::res://assets/animace/WalkAnimation1.png<>uid://b030bwsfypnnr::::res://assets/animace/WalkAnimation3.png<>uid://wps02oyut8nc::::res://assets/animace/WalkAnimation4.png<>uid://b1hmrr7np0axt::::res://assets/animace/WalkLeft0.png<>uid://cmvbf2tqi8qa5::::res://assets/animace/WalkLeft1.png<>uid://bfcbpsytaglie::::res://assets/animace/WalkLeft2.png<>uid://wfhugb38iw2u::::res://assets/animace/WalkLeft3.png<>uid://l1b6ljmbpluc::::res://assets/animace/WalkRight0.png<>uid://cwm0q1ebxk5bx::::res://assets/animace/WalkRight1.png<>uid://djv4v20hr7ow3::::res://assets/animace/WalkRight2.png<>uid://bqt50ynyvv524::::res://assets/animace/WalkRight3.png<>uid://bhabh0jmfbfmb::::res://assets/animace/WalkBack0.png<>uid://c7mde40sqff63::::res://assets/animace/WalkBack1.png<>uid://bqaqur2ts6uja::::res://assets/animace/WalkBack2.png<>uid://dc8ot65bsfglr::::res://assets/animace/WalkBack3.png
+::res://scripts/::1791302453
 dialogue_box.gd::GDScript::333616763374834796::1791232838::0::1::::<>CanvasLayer<><>0<>0<><>::
 npc.gd::GDScript::7753919763652713727::1791232838::0::1::::<>StaticBody2D<><>0<>0<><>::
-player.gd::GDScript::39633449741743888::1791232838::0::1::::<>CharacterBody2D<><>0<>0<><>::
+player.gd::GDScript::39633449741743888::1791302453::0::1::::<>CharacterBody2D<><>0<>0<><>::
