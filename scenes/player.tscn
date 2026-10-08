@@ -90,7 +90,7 @@ animations = [{
 }]
 
 [sub_resource type="RectangleShape2D" id="1"]
-size = Vector2(58, 115.5)
+size = Vector2(58, 175.375)
 
 [node name="Player" type="CharacterBody2D" unique_id=617009748 groups=["player"]]
 motion_mode = 1
@@ -100,8 +100,8 @@ script = ExtResource("1")
 position = Vector2(1, -1)
 scale = Vector2(0.70487803, 0.65284973)
 sprite_frames = SubResource("SpriteFrames_1vivr")
-animation = &"walk_up"
+animation = &"walk_down"
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="." unique_id=1095517114]
-position = Vector2(-2, 34.75)
+position = Vector2(7, 34.3125)
 shape = SubResource("1")
