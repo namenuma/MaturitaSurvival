@@ -7,14 +7,17 @@
 
 [node name="NPC" parent="." unique_id=128552504 instance=ExtResource("2")]
 position = Vector2(400, 240)
+lines = Array[String](["Unset Dialogue file"])
+dialogue_file = "res://dialogues/ahojsvete.json"
 
 [node name="NPC2" parent="." unique_id=78875320 instance=ExtResource("2")]
 position = Vector2(300, 100)
-lines = Array[String](["Já mám jiné repliky.", "Každé NPC má vlastní text."])
+lines = Array[String](["Unset Dialogue file"])
+dialogue_file = "res://dialogues/test1.json"
 
 [node name="NPC3" parent="." unique_id=1014241887 instance=ExtResource("2")]
 position = Vector2(484, 86)
-lines = Array[String](["Ahoj, jsem 3. NPC!", "Mam hodne textu", "Opravdu!"])
+lines = Array[String](["Unset Dialogue file"])
 
 [node name="Player" parent="." unique_id=617009748 instance=ExtResource("1")]
 position = Vector2(136, 240)

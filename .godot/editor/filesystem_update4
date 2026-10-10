@@ -1,1 +1,5 @@
+res://scenes/dialogue_box.tscn
+res://scripts/dialogue_box.gd
+res://scenes/npc.tscn
+res://scenes/main.tscn
 res://scenes/player.tscn

@@ -1,0 +1,12 @@
+{
+  "start": {
+	"text": "Tohle je test",
+	"choices": [
+	  {"text": "1. moznost", "next": "first"},
+	  {"text": "2. moznost", "next": "second"}
+	]
+  },
+  "first": {"text": "Vybrana 1. moznost", "next": "end"},
+  "second": {"text": "Vybrana 2. moznost", "next": "end"},
+  "end": {"text": "Ukoncujici text"}
+}

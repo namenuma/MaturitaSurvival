@@ -1,0 +1,13 @@
+{
+  "start": {
+	"text": "Ahoj vsichni",
+	"text": "Pozdrav me zpatky!",
+	"choices": [
+	  {"text": "No nazdar", "next": "first"},
+	  {"text": "Hai", "next": "second"}
+	]
+  },
+  "first": {"text": "Proc tak arogantni?", "next": "end"},
+  "second": {"text": ":3", "next": "end"},
+  "end": {"text": "No nic, padam pryc"}
+}
