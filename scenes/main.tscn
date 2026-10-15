@@ -2,6 +2,7 @@
 
 [ext_resource type="PackedScene" uid="uid://bij6byhoqejdp" path="res://scenes/player.tscn" id="1"]
 [ext_resource type="PackedScene" uid="uid://d33d5hanbv70p" path="res://scenes/npc.tscn" id="2"]
+[ext_resource type="PackedScene" uid="uid://dpqh0wjkp2txj" path="res://scenes/hud.tscn" id="3_sugp2"]
 
 [node name="Main" type="Node2D" unique_id=1340825447]
 
@@ -18,9 +19,12 @@ dialogue_file = "res://dialogues/test1.json"
 [node name="NPC3" parent="." unique_id=1014241887 instance=ExtResource("2")]
 position = Vector2(484, 86)
 lines = Array[String](["Unset Dialogue file"])
+dialogue_file = "res://dialogues/stresstest.json"
 
 [node name="Player" parent="." unique_id=617009748 instance=ExtResource("1")]
 position = Vector2(136, 240)
 
 [node name="Camera2D" type="Camera2D" parent="Player" unique_id=1092834594]
 zoom = Vector2(0.5, 0.5)
+
+[node name="Hud" parent="." unique_id=1095204904 instance=ExtResource("3_sugp2")]

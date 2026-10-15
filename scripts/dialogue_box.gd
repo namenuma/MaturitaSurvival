@@ -97,7 +97,10 @@ func _unhandled_input(event: InputEvent) -> void:
 			_update_choices()
 			get_viewport().set_input_as_handled()
 		elif event.is_action_pressed("interact"):
-			_show_node(current["choices"][choice_index].get("next", ""))
+			var chosen: Dictionary = current["choices"][choice_index]
+			if chosen.has("stress"):
+				GameState.add_stress(chosen["stress"])
+			_show_node(chosen.get("next", ""))
 			get_viewport().set_input_as_handled()
 		return
 

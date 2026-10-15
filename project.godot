@@ -23,6 +23,7 @@ config/icon="res://assets/icon.svg"
 [autoload]
 
 DialogueBox="*res://scenes/dialogue_box.tscn"
+GameState="*uid://dexr57b00o86t"
 
 [display]
 

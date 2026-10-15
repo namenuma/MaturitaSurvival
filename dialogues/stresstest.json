@@ -1,0 +1,12 @@
+{
+  "start": {
+	"text": "Test stresu",
+	"choices": [
+	  {"text": "Pridej stres", "next": "first", "stress": 10},
+	  {"text": "Odeber stres", "next": "second", "stress": -10}
+	]
+  },
+  "first": {"text": "Pridan stres", "next": "end"},
+  "second": {"text": "Odebran stres", "next": "end"},
+  "end": {"text": "Konec testu"}
+}

@@ -1,5 +1,9 @@
+res://scenes/main.tscn
+res://scripts/game_state.gd
+res://scenes/hud.tscn
+res://scripts/hud.gd
 res://scenes/dialogue_box.tscn
 res://scripts/dialogue_box.gd
-res://scenes/npc.tscn
-res://scenes/main.tscn
+res://dialogues/stresstest.json
 res://scenes/player.tscn
+res://scripts/player.gd

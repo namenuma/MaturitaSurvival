@@ -1,0 +1,26 @@
+[gd_scene format=3 uid="uid://dpqh0wjkp2txj"]
+
+[ext_resource type="Script" uid="uid://dweysyhi1eutx" path="res://scripts/hud.gd" id="1_ahhtf"]
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_ahhtf"]
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_oo0fn"]
+
+[node name="Hud" type="CanvasLayer" unique_id=1095204904]
+script = ExtResource("1_ahhtf")
+
+[node name="HBoxContainer" type="HBoxContainer" parent="." unique_id=1536601693]
+offset_left = 16.0
+offset_top = 16.0
+offset_right = 56.0
+offset_bottom = 56.0
+
+[node name="Label" type="Label" parent="HBoxContainer" unique_id=1825100433]
+layout_mode = 2
+
+[node name="Bar" type="ProgressBar" parent="HBoxContainer" unique_id=744913587]
+custom_minimum_size = Vector2(150, 16)
+layout_mode = 2
+theme_override_styles/background = SubResource("StyleBoxFlat_ahhtf")
+theme_override_styles/fill = SubResource("StyleBoxFlat_oo0fn")
+show_percentage = false
